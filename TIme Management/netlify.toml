@@ -1,3 +1,2 @@
 [build]
-  command = "node Time Management/app.js"
-  publish = "Time Management/"  # Change this path if needed
+command = "node app.js"
